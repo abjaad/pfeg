@@ -1,3 +1,21 @@
+---
+title:
+  en: "Banking Scams"
+  ar: "نصب البنوك"
+description:
+  en: "How to identify and protect yourself from banking fraud."
+  ar: "إزاي تكتشف وتحمي نفسك من عمليات الاحتيال البنكي."
+order: 1
+category_order: 8
+category_title:
+  en: "Scams & Fraud"
+  ar: "النصب والاحتيال"
+category_description:
+  en: "How to spot, avoid, and report financial scams in Egypt."
+  ar: "إزاي تكتشف وتتجنب وتبلغ عن عمليات النصب والاحتيال المالي في مصر."
+hidden: false
+---
+
 ## 1- تحديث بيانات الزامي بسبب البنك المركزي
 
 **بيحصل ازاي**  
