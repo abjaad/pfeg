@@ -1,3 +1,21 @@
+---
+title:
+  en: "What is Inflation?"
+  ar: "ما هو التضخم؟"
+description:
+  en: "Understanding inflation and its impact on your savings."
+  ar: "فهم التضخم وتأثيره على مدخراتك."
+order: 4
+category_order: 1
+category_title:
+  en: "The Basics"
+  ar: "الأساسيات"
+category_description:
+  en: "How to save, budget, and understand money basics before you start investing."
+  ar: "إزاي تحوش، تعمل ميزانية، وتفهم أساسيات الفلوس قبل ما تبدأ تستثمر عشان متخسرش."
+hidden: false
+---
+
 # يعني ايه تضخم؟
 
 التضخم هو ارتفاع عام ومستمر في اسعار السلع والخدمات
