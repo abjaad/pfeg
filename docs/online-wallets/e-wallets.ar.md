@@ -1,7 +1,7 @@
 ---
 title:
-  en: "E-Wallets"
-  ar: "محافظ الموبايل وكدا"
+  en: "e-Wallets"
+  ar: "محافظ الموبايل"
 description:
   en: "Comparison between popular e-wallets in egypt"
   ar: "مقارنة شاملة لاشهر محافظ موبايل في مصر"
