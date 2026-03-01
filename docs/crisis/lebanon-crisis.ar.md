@@ -1,3 +1,21 @@
+---
+title:
+  en: "Lessons from Lebanon Crisis"
+  ar: "دروس من أزمة لبنان"
+description:
+  en: "Analyzing the financial collapse in Lebanon to learn how to protect your assets."
+  ar: "تحليل الانهيار المالي في لبنان لتعلم كيفية حماية أصولك."
+order: 1
+category_order: 7
+category_title:
+  en: "Crisis Management"
+  ar: "إدارة الأزمات"
+category_description:
+  en: "How to handle inflation and economic crises while protecting your capital."
+  ar: "إزاي تتعامل مع التضخم والأزمات وتحمي قيمة فلوسك."
+hidden: false
+---
+
 # دروس من أزمة لبنان
 
 لبنان مرت بواحدة من اسوء حالات الانهيار الاقتصادي على مستوي عام، للاسف "سويسرا الشرق" ماعادتش زي ماكانت، ودا بيعلمك اول درس، مفيش حاجة بتفضل على حالها
