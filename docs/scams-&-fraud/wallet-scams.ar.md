@@ -1,3 +1,21 @@
+---
+title:
+  en: "Wallet Scams"
+  ar: "نصب المحافظ"
+description:
+  en: "How to protect your digital wallets from fraud."
+  ar: "إزاي تحمي محفظتك الإلكترونية من الاحتيال."
+order: 5
+category_order: 8
+category_title:
+  en: "Scams & Fraud"
+  ar: "النصب والاحتيال"
+category_description:
+  en: "How to spot, avoid, and report financial scams in Egypt."
+  ar: "إزاي تكتشف وتتجنب وتبلغ عن عمليات النصب والاحتيال المالي في مصر."
+hidden: false
+---
+
 ## 1: خدعه الـ Flash SMS رساله الشاشه من العدم
 
 **التفصيل**  
