@@ -1,3 +1,21 @@
+---
+title:
+  en: "Crypto Scams"
+  ar: "النصب في الكريبتو"
+description:
+  en: "How to avoid crypto scams and trade safely."
+  ar: "إزاي تتجنب عمليات النصب في الكريبتو وتتداول بأمان."
+order: 3
+category_order: 8
+category_title:
+  en: "Scams & Fraud"
+  ar: "النصب والاحتيال"
+category_description:
+  en: "How to spot, avoid, and report financial scams in Egypt."
+  ar: "إزاي تكتشف وتتجنب وتبلغ عن عمليات النصب والاحتيال المالي في مصر."
+hidden: false
+---
+
 # 1- انتحال دعم binance
 
 **بيحصل ازاي**  
