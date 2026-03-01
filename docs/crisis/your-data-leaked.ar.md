@@ -1,3 +1,21 @@
+---
+title:
+  en: "Your Data Leaked"
+  ar: "بياناتك اتسربت"
+description:
+  en: "Steps to take immediately if your personal data is leaked."
+  ar: "خطوات يجب اتخاذها فوراً إذا تم تسريب بياناتك الشخصية."
+order: 2
+category_order: 7
+category_title:
+  en: "Crisis Management"
+  ar: "إدارة الأزمات"
+category_description:
+  en: "How to handle inflation and economic crises while protecting your capital."
+  ar: "إزاي تتعامل مع التضخم والأزمات وتحمي قيمة فلوسك."
+hidden: false
+---
+
 # اتهكرت؟
 
 الموضوع ده بيحصل أكتر مما إنت فاكر. رسالة SMS وهمية، موقع تسوق مشبوه، مكالمة من "موظف البنك" وممكن يبقى مجرد فايروس بيسألك على باسوردك جوا Flash SMS
