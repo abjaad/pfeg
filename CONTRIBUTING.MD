@@ -1,4 +1,4 @@
-# CONTRIBUTE.md
+# CONTRIBUTING.MD
 > This is a template from [abjad.wiki](https://abjad.wiki)
 
 [اقرأ بالعربي](#arabic) | [Read English ↓](#english)
